@@ -1,0 +1,10 @@
+{
+  "fields": ["name", "pageid", "estado"],
+  "data": [
+  ["K-poppers Baianos","kpoppersbaianoskorea","K-poppers Baianos"  ],
+  ["Cosplayers - BA","CosplayersBA","Cosplayers - BA"  ],
+  ["Batalha Cênica Salvador","batalhacenicadesalvador","Batalha Cênica Salvador"  ],
+  ["Nerdaiada","Nerdaiada","Nerdaiada"  ]
+  
+]
+}
