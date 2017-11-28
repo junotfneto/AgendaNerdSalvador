@@ -1,7 +1,7 @@
 {
-  "fields": ["name", "pageid", "estado"],
+  "fields": ["name", "pageid", "description"],
   "data": [
-  ["K-poppers Baianos","kpoppersbaianoskorea","K-poppers Baianos"  ],
+  ["K-poppers Baianos","kpoppersbaianoskorea","O grupo Kpoppers Baianos (KBE) existe com o propósito de divulgar a cultura coreana no estado da Bahia e trazer entretenimento de qualidade para os apreciadores da música e dramaturgia coreanas de Salvador e regiões adjacentes."  ],
   ["Cosplayers - BA","CosplayersBA","Cosplayers - BA"  ],
   ["Batalha Cênica Salvador","batalhacenicadesalvador","Batalha Cênica Salvador"  ],
   ["Nerdaiada","Nerdaiada","Nerdaiada"  ],
